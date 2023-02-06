@@ -1,0 +1,720 @@
+/* screen - ayo-s-ui-resume */
+body{
+  background-color: #775921;
+}
+
+.ayo-s-ui-resume {
+  align-items: flex-start;
+  background-color: #6d6d6d;
+  border: 1px none;
+  display: flex;
+  width: 595px;
+}
+
+.ayo-s-ui-resume .ayos_ui_resume {
+  align-items: flex-start;
+  background-image: url(../img/ayo-s-ui-resume.png);
+  background-size: 100% 100%;
+  border-radius: 10px;
+  display: flex;
+  overflow: hidden;
+  width: 595px;
+}
+
+.ayo-s-ui-resume .overlap-group3 {
+  height: 842px;
+  position: relative;
+  width: 595px;
+}
+
+.ayo-s-ui-resume .about {
+  background-image: url(../img/about@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  height: 434px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 302px;
+}
+
+.ayo-s-ui-resume .frame-6 {
+  align-items: flex-start;
+  background-color: #4d4c5c80;
+  border-radius: 10px;
+  display: flex;
+  height: 57px;
+  justify-content: flex-end;
+  margin-left: 24px;
+  margin-top: 25.0px;
+  min-width: 264px;
+  padding: 1.0px 9px;
+}
+
+.ayo-s-ui-resume .overlap-group {
+  height: 52px;
+  position: relative;
+  width: 245px;
+}
+
+.ayo-s-ui-resume .ayo-gegeoju {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 21.6px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.ayo-s-ui-resume .ui-designer-graphics-designer {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 29px;
+}
+
+.ayo-s-ui-resume .i-am-specialized-in {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-weight: 300;
+  height: 346px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 25px;
+  width: 261px;
+}
+
+.ayo-s-ui-resume .skills {
+  align-items: flex-start;
+  background-image: url(../img/skills@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  height: 434px;
+  left: 302px;
+  padding: 11px 8px;
+  position: absolute;
+  top: 0;
+  width: 293px;
+}
+
+.ayo-s-ui-resume .flex-row {
+  align-items: flex-end;
+  display: flex;
+  gap: 14px;
+  height: 65px;
+  margin-top: 19px;
+  min-width: 223px;
+}
+
+.ayo-s-ui-resume .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  min-height: 65px;
+  width: 58px;
+}
+
+.ayo-s-ui-resume .skills-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 30px;
+}
+
+.ayo-s-ui-resume .frame {
+  background-color: var(--scarpa-flow);
+  border-radius: 10px;
+  display: flex;
+  height: 27px;
+  width: 58px;
+}
+
+.ayo-s-ui-resume .figma {
+  height: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 7px;
+  margin-top: 3px;
+  width: 45px;
+}
+
+.ayo-s-ui-resume .html {
+  height: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 11px;
+  margin-top: 3px;
+  width: 37px;
+}
+
+.ayo-s-ui-resume .frame-1 {
+  background-color: var(--scarpa-flow);
+  border-radius: 10px;
+  display: flex;
+  height: 27px;
+  width: 79px;
+}
+
+.ayo-s-ui-resume .ms-office {
+  height: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 7px;
+  margin-top: 3px;
+  width: 66px;
+}
+
+.ayo-s-ui-resume .frame-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 14px;
+  min-width: 222px;
+}
+
+.ayo-s-ui-resume .ms-office-1 {
+  height: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 7px;
+  margin-top: 3px;
+  width: 66px;
+}
+
+.ayo-s-ui-resume .frame-2 {
+  background-color: var(--scarpa-flow);
+  border-radius: 10px;
+  display: flex;
+  height: 27px;
+  width: 129px;
+}
+
+.ayo-s-ui-resume .graphics-design {
+  height: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 7px;
+  margin-top: 3px;
+  width: 116px;
+}
+
+.ayo-s-ui-resume .frame-container-1 {
+  min-width: 227px;
+}
+
+.ayo-s-ui-resume .frame-8 {
+  background-color: var(--scarpa-flow);
+  border-radius: 10px;
+  display: flex;
+  height: 27px;
+  width: 95px;
+}
+
+.ayo-s-ui-resume .prototyping {
+  height: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 7px;
+  margin-top: 3px;
+  width: 82px;
+}
+
+.ayo-s-ui-resume .frame-10 {
+  background-color: var(--scarpa-flow);
+  border-radius: 10px;
+  display: flex;
+  height: 27px;
+  width: 118px;
+}
+
+.ayo-s-ui-resume .ad-campaigns {
+  height: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 7px;
+  margin-top: 3px;
+  width: 105px;
+}
+
+.ayo-s-ui-resume .frame-container-2 {
+  min-width: 233px;
+}
+
+.ayo-s-ui-resume .communication {
+  height: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 7px;
+  margin-top: 3px;
+  width: 116px;
+}
+
+.ayo-s-ui-resume .frame-12 {
+  background-color: var(--scarpa-flow);
+  border-radius: 10px;
+  display: flex;
+  height: 27px;
+  width: 90px;
+}
+
+.ayo-s-ui-resume .interaction {
+  height: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 7px;
+  margin-top: 3px;
+  width: 77px;
+}
+
+.ayo-s-ui-resume .frame-container-3 {
+  min-width: 192px;
+}
+
+.ayo-s-ui-resume .creativity {
+  height: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 7px;
+  margin-top: 3px;
+  width: 66px;
+}
+
+.ayo-s-ui-resume .frame-3 {
+  background-color: var(--scarpa-flow);
+  border-radius: 10px;
+  display: flex;
+  height: 27px;
+  width: 99px;
+}
+
+.ayo-s-ui-resume .typography {
+  height: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 7px;
+  margin-top: 3px;
+  width: 86px;
+}
+
+.ayo-s-ui-resume .frame-13 {
+  background-color: var(--scarpa-flow);
+  border-radius: 10px;
+  display: flex;
+  height: 27px;
+  width: 252px;
+}
+
+.ayo-s-ui-resume .curiousity-and-continous-learning {
+  height: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 7px;
+  margin-top: 3px;
+  width: 239px;
+}
+
+.ayo-s-ui-resume .frame-container-4 {
+  min-width: 240px;
+}
+
+.ayo-s-ui-resume .frame-14 {
+  background-color: var(--scarpa-flow);
+  border-radius: 10px;
+  display: flex;
+  height: 27px;
+  width: 127px;
+}
+
+.ayo-s-ui-resume .problem-solving {
+  height: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 7px;
+  margin-top: 3px;
+  width: 114px;
+}
+
+.ayo-s-ui-resume .wireframing {
+  height: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 7px;
+  margin-top: 3px;
+  width: 86px;
+}
+
+.ayo-s-ui-resume .frame-container-5 {
+  min-width: 230px;
+}
+
+.ayo-s-ui-resume .frame-16 {
+  background-color: var(--scarpa-flow);
+  border-radius: 10px;
+  display: flex;
+  height: 27px;
+  width: 125px;
+}
+
+.ayo-s-ui-resume .critical-thinking {
+  height: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 7px;
+  margin-top: 3px;
+  width: 112px;
+}
+
+.ayo-s-ui-resume .frame-17 {
+  background-color: var(--scarpa-flow);
+  border-radius: 10px;
+  display: flex;
+  height: 27px;
+  width: 91px;
+}
+
+.ayo-s-ui-resume .team-work {
+  width: 78px;
+}
+
+.ayo-s-ui-resume .frame-18 {
+  background-color: var(--scarpa-flow);
+  border-radius: 10px;
+  display: flex;
+  height: 27px;
+  width: 156px;
+}
+
+.ayo-s-ui-resume .team-management {
+  width: 143px;
+}
+
+.ayo-s-ui-resume .contact-info {
+  align-items: center;
+  background-color: #7b777780;
+  border-radius: 10px;
+  display: flex;
+  height: 50px;
+  justify-content: center;
+  left: 25px;
+  overflow: hidden;
+  position: absolute;
+  top: 434px;
+  width: 545px;
+}
+
+.ayo-s-ui-resume .frame-1-1 {
+  gap: 12.15px;
+  height: 21px;
+  margin-left: -0.9px;
+  margin-top: 1px;
+  width: 486.12px;
+}
+
+.ayo-s-ui-resume .frame-1-item {
+  gap: 4.15px;
+  width: fit-content;
+}
+
+.ayo-s-ui-resume .icon-mail {
+  height: 17.24px;
+  min-width: 15.99px;
+}
+
+.ayo-s-ui-resume .aogegeoju0gmailcom {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.83px;
+  width: fit-content;
+}
+
+.ayo-s-ui-resume .phone {
+  align-items: flex-end;
+  display: flex;
+  gap: 4.15px;
+  width: fit-content;
+}
+
+.ayo-s-ui-resume .icon {
+  height: 20.68px;
+  min-width: 19.19px;
+}
+
+.ayo-s-ui-resume .phone-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.83px;
+  width: fit-content;
+}
+
+.ayo-s-ui-resume .abuja-nigeria {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -0.83px;
+  width: fit-content;
+}
+
+.ayo-s-ui-resume .r-esu-me-1 {
+  background-image: url(../img/resume-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  height: 358px;
+  left: 0;
+  position: absolute;
+  top: 484px;
+  width: 595px;
+}
+
+.ayo-s-ui-resume .work-exp {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  height: 206.97px;
+  margin-left: 25px;
+  margin-top: 15px;
+  width: 531.5px;
+}
+
+.ayo-s-ui-resume .work-experience {
+  height: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  width: 169px;
+}
+
+.ayo-s-ui-resume .frame-21 {
+  display: flex;
+  gap: 18px;
+  margin-left: 13.5px;
+  width: 518px;
+}
+
+.ayo-s-ui-resume .frame-19 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  height: 166.97px;
+  width: 250px;
+}
+
+.ayo-s-ui-resume .overlap-group-1 {
+  height: 72px;
+  margin-top: -1px;
+  position: relative;
+  width: 199px;
+}
+
+.ayo-s-ui-resume .x-designer {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 31.0px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.ayo-s-ui-resume .goju-stores-abuja-ng {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: 27.9px;
+  position: absolute;
+  top: 26px;
+  white-space: nowrap;
+}
+
+.ayo-s-ui-resume .name {
+  color: #ffffffbf;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: 21.7px;
+  position: absolute;
+  top: 50px;
+  white-space: nowrap;
+}
+
+.ayo-s-ui-resume .design-user-workflow {
+  align-self: flex-end;
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 18.5px;
+  margin-right: 0;
+  min-height: 95px;
+  width: 243px;
+}
+
+.ayo-s-ui-resume .frame-20 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  height: 166.97px;
+  overflow: hidden;
+  width: 250px;
+}
+
+.ayo-s-ui-resume .overlap-group1 {
+  height: 72px;
+  margin-top: -1px;
+  position: relative;
+  width: 208px;
+}
+
+.ayo-s-ui-resume .name-1 {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: 27.9px;
+  position: absolute;
+  top: 26px;
+  white-space: nowrap;
+}
+
+.ayo-s-ui-resume .nov-2022-jan-2023 {
+  color: #ffffffbf;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: 21.7px;
+  position: absolute;
+  top: 50px;
+  white-space: nowrap;
+}
+
+.ayo-s-ui-resume .edu {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin-left: 25px;
+  min-height: 100px;
+  width: 328px;
+}
+
+.ayo-s-ui-resume .education {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-height: 30px;
+}
+
+.ayo-s-ui-resume .overlap-group2 {
+  align-self: flex-end;
+  height: 65px;
+  margin-right: -66px;
+  position: relative;
+  width: 380px;
+}
+
+.ayo-s-ui-resume .meteorology-climate-sciences {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 31.0px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.ayo-s-ui-resume .bachelor-of-science {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 23.4px;
+  position: absolute;
+  top: 26px;
+  white-space: nowrap;
+}
+
+.ayo-s-ui-resume .federal-university-o {
+  color: transparent;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxs);
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20.6px;
+  position: absolute;
+  top: 45px;
+  white-space: nowrap;
+  width: 380px;
+}
+
+.ayo-s-ui-resume .span {
+  color: var(--white);
+}
+
+.ayo-s-ui-resume .span-1 {
+  color: #ffffff99;
+}
+
+.ayo-s-ui-resume .r-esu-me-1-1 {
+  border: 1.94px solid;
+  border-color: #4c4c5b;
+  border-radius: 10px;
+  height: 817px;
+  left: 9px;
+  position: absolute;
+  top: 12px;
+  width: 578px;
+}
+
+.ayo-s-ui-resume .frame-1-2 {
+  align-items: center;
+  display: flex;
+}
+
+.ayo-s-ui-resume .frame-container-6 {
+  align-items: flex-start;
+  display: flex;
+  gap: 14px;
+}
+
+.ayo-s-ui-resume .team {
+  height: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 7px;
+  margin-top: 3px;
+}
